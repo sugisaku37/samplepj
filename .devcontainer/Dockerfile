@@ -1,4 +1,5 @@
-FROM mcr.microsoft.com/devcontainers/dotnet:1-7.0-bullseye
+# FROM mcr.microsoft.com/devcontainers/dotnet:1-7.0-bullseye
+FROM mcr.microsoft.com/devcontainers/dotnet:1-8.0-jammy
 # FROM mcr.microsoft.com/devcontainers/dotnet:1-6.0-bullseye
 
 # [Optional] Uncomment this section to install additional OS packages.
